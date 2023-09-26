@@ -6,4 +6,4 @@ takes your libreview csv file and converts it to a scatterplot with hoverable no
 4. run this notebook
 5. hover over the red dots
    
-![Example Image](Untitled.PNG)
+![Example Image](Untitled.png)
